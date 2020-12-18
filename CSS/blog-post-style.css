@@ -1,6 +1,6 @@
-@import '/CSS/base.css';
-@import '/CSS/reset.css';
-@import '/CSS/normalize.css';
+@import 'base.css';
+@import 'reset.css';
+@import 'normalize.css';
 
 body{
     font-family: 'Open Sans', sans-serif;    
